@@ -1,1 +1,1 @@
- ShoeStore is a clean responsive storefront built with HTML and CSS to showcase footwear with polished visuals and smooth browsing. The design focuses on large product imagery clear typography and fast loading so visitors can quickly find and evaluate shoes.
+Mile Club is a clean responsive storefront built with HTML and CSS to showcase footwear with polished visuals and smooth browsing. The design focuses on large product imagery clear typography and fast loading so visitors can quickly find and evaluate shoes.
